@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wutljs
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning coding by python.
+- 👀 I’m interested in SLAM.
+- 🌱 I’m currently learning coding by python and cpp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :3480339804@qq.com
 
